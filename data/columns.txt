@@ -1,0 +1,19 @@
+2004-2005 columns:
+-RCDTS = RCDT + School
+-District
+-Total Sch. Enroll
+-Polio Prot.
+
+
+2009-2010 columns:
+-RCDTS
+-Facility
+-Enrollment
+-PolioProt
+
+2014-2015 columns (Polio tab --second tab):
+-RCDTS
+-District
+-Facility
+-Enrollment PreK-12
+-Protected and in complicance
